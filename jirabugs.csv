@@ -1,0 +1,10 @@
+Summary,Priority,Severity,State,Description,Assignee,Submitter,RallyStoryID,JiraID
+Jira Bug 1,P0,None,Open,Issue with binary data,John Doe,John Doe,US2,MWP-412
+Jira Bug 2,P1,Critical,Closed,Issue with text data,John Doe,John Doe,US4,MWP-413
+Jira Bug 3,P2,Severe,Fixed,Problems with checkout,John Doe,John Doe,US6,MWP-414
+Jira Bug 4,P2,Minor,Open,System sluggish,John Doe,John Doe,US8,MWP-415
+Jira Bug 5,P1,Major,Open,Some fonts don't render properly,John Doe,John Doe,US10,MWP-416
+Jira Bug 6,P2,Minor,Open,Cart shows some items for free,John Doe,John Doe,US12,MWP-417
+Jira Bug 7,P2,Minor,Open,context help inaccurate,John Doe,John Doe,US14,MWP-418
+Jira Bug 8,P3,Trivial,Open,My bug 4,John Doe,John Doe,US16,MWP-419
+Jira Bug 9,P2,Minor,Open,My Bug 5,John Doe,John Doe,US18,MWP-420
